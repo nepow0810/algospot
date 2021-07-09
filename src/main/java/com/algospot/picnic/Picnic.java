@@ -2,7 +2,7 @@ package com.algospot.picnic;
 
 import java.util.Scanner;
 
-public class Main {
+public class Picnic {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int cases = scanner.nextInt();

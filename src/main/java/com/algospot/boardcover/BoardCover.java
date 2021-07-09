@@ -2,7 +2,7 @@ package com.algospot.boardcover;
 
 import java.util.Scanner;
 
-public class Main {
+public class BoardCover {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int cases = scanner.nextInt();
