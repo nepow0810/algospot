@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Template {
   public static void main(String[] args) {
@@ -7,5 +7,6 @@ public class Template {
     while (cases-- > 0) {
 
     }
+    scanner.close();
   }
 }
